@@ -34,4 +34,4 @@ uvicorn main:app --reload
 
 ## 📤 Extra
 
-I explained this project and the core ideas behind FastAPI in this [LinkedIn post](https://www.example.com) using slides and examples.
+I explained this project and the core ideas behind FastAPI in this [LinkedIn post](https://www.linkedin.com/posts/carlos-morales-aguilera_fastapi-python-backend-activity-7343347775960449024-A5aX?utm_source=share&utm_medium=member_desktop&rcm=ACoAACGfzmkB2FzOzdh4Zn8oi45frTzj4p6PzH4) using slides and examples.
